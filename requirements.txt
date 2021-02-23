@@ -1,7 +1,6 @@
 discord
 asyncio
 datetime
-json
 os
 aiohttp
 youtube_dl
