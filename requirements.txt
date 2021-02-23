@@ -1,32 +1,32 @@
-import discord
+discord
 from discord import message
 from discord.enums import _is_descriptor
 from discord.ext import commands
-import asyncio
-import datetime
-import random
-import time
-import sys
-import json
-import os
-import discord as d
+asyncio
+datetime
+random
+time
+sys
+json
+os
+discord as d
 from discord.ext import commands, tasks
 from bs4 import BeautifulSoup
-import aiohttp
+aiohttp
 from captcha.image import ImageCaptcha
 from discord.ext.commands import has_permissions, MissingPermissions
 from youtube_search import YoutubeSearch
-import youtube_dl
+youtube_dl
 from random import choice
-import math
-import aiosqlite
-import urllib
+math
+aiosqlite
+urllib
 from urllib.request import URLError
 from urllib.request import HTTPError
 from urllib.request import urlopen
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 from urllib.parse import quote
-import re # Regex for youtube link
-import warnings
-import requests
+re # Regex for youtube link
+warnings
+requests
