@@ -1,7 +1,6 @@
 discord
 asyncio
 datetime
-random
 time
 sys
 json
