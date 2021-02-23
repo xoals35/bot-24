@@ -4,7 +4,6 @@ datetime
 aiohttp
 youtube_dl
 aiosqlite
-urllib
-re # Regex for youtube link
+re 
 warnings
 requests
