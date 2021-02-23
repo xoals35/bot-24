@@ -6,7 +6,6 @@ time
 sys
 json
 os
-discord as d
 aiohttp
 youtube_dl
 math
