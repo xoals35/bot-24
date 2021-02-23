@@ -3,7 +3,6 @@ asyncio
 datetime
 aiohttp
 youtube_dl
-math
 aiosqlite
 urllib
 re # Regex for youtube link
