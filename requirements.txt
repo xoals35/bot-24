@@ -4,5 +4,4 @@ datetime
 aiohttp
 youtube_dl
 aiosqlite
-warnings
 requests
