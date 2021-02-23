@@ -1,17 +1,17 @@
-import discord
-import asyncio
-import datetime
-import random
-import time
-import sys
-import json
-import os
-import discord as d
-import aiohttp
-import youtube_dl
-import math
-import aiosqlite
-import urllib
-import re # Regex for youtube link
-import warnings
-import requests
+discord
+asyncio
+datetime
+random
+time
+sys
+json
+os
+discord as d
+aiohttp
+youtube_dl
+math
+aiosqlite
+urllib
+re # Regex for youtube link
+warnings
+requests
