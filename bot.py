@@ -513,6 +513,5 @@ async def 핑(ctx):
 
 
 bot.loop.create_task(initialize())
-asyncio.run(bot.db.close())
-access_token = os.environ["BOT_TOKEN"]
+client.run(os.environ['token'])
 bot.run(access_token)
