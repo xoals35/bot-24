@@ -1,7 +1,3 @@
 discord
 asyncio
-datetime
-aiohttp
-youtube_dl
-aiosqlite
-requests
+
